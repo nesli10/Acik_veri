@@ -1,1 +1,1 @@
-Açık Veri Frontend Teması
+Frontend tema parçalama
